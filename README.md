@@ -15,7 +15,7 @@
 * **3.** [Comparación y prueba](https://github.com/josehazielvalenzuelasilva/practicas-lenguajes-interfaz/blob/main/03%20-%20Comparacion%20y%20prueba/Source03.asm)
 * **4.** [Saltos](https://github.com/josehazielvalenzuelasilva/practicas-lenguajes-interfaz/blob/main/04%20-%20Saltos/Source04.asm)
 * **4.1** [Mayor, menor o igual con entrada del usuario](./4.1-%20Mayor,%20menor%20o%20igual%20con%20entrada%20del%20usuario/Source.asm)
-* **5.** [Condicionales](./05%20-%20Condicionales/Source.asm)
+* **5.** [Condicionales](https://github.com/josehazielvalenzuelasilva/practicas-lenguajes-interfaz/blob/main/05%20-%20Condicionales/Source05.asm)
 * **5.1** [Repetir hasta que el usuario ingrese cero](./5.1-%20Repetir%20hasta%20que%20el%20usuario%20ingrese%20cero/Source.asm)
 * **7.** [Validación de formato](./07-%20Validacion%20de%20formato/Source.asm)
 * **9.** [PUSH y POP](./09-%20PUSH%20y%20POP/Source.asm)
