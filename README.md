@@ -20,5 +20,5 @@
 * **7.** [Validación de formato](https://github.com/josehazielvalenzuelasilva/practicas-lenguajes-interfaz/blob/main/07%20-%20Validacion%20de%20formato/Source07.asm)
 * **9.** [PUSH y POP](https://github.com/josehazielvalenzuelasilva/practicas-lenguajes-interfaz/blob/main/09%20-%20PUSH%20y%20POP/Source09.asm)
 * **11.** [Operaciones lógicas](https://github.com/josehazielvalenzuelasilva/practicas-lenguajes-interfaz/blob/main/11%20-%20Operaciones%20logicas/Source11.asm)
-* **12.** [Desplazamiento y rotación](./12-%20Desplazamiento%20y%20rotacion/Source.asm)
+* **12.** [Desplazamiento y rotación](https://github.com/josehazielvalenzuelasilva/practicas-lenguajes-interfaz/blob/main/12%20-%20Desplazamiento%20y%20rotacion/Source12.asm)
 * **15.** [Manipulación de archivos](./15-%20Manipulacion%20de%20archivos/Source.asm)
