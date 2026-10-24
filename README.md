@@ -13,7 +13,7 @@
 * **1.** [Ciclos numéricos](https://github.com/josehazielvalenzuelasilva/practicas-lenguajes-interfaz/blob/main/01%20-%20Ciclos%20numericos/Source01.asm)
 * **2.** [Captura y desplegado de mensajes](https://github.com/josehazielvalenzuelasilva/practicas-lenguajes-interfaz/blob/main/02%20-%20Captura%20y%20desplegado%20de%20mensajes/Source02.asm)
 * **3.** [Comparación y prueba](https://github.com/josehazielvalenzuelasilva/practicas-lenguajes-interfaz/blob/main/03%20-%20Comparacion%20y%20prueba/Source03.asm)
-* **4.** [Saltos](./04%20-%20Saltos/Source.asm)
+* **4.** [Saltos](https://github.com/josehazielvalenzuelasilva/practicas-lenguajes-interfaz/blob/main/04%20-%20Saltos/Source04.asm)
 * **4.1** [Mayor, menor o igual con entrada del usuario](./4.1-%20Mayor,%20menor%20o%20igual%20con%20entrada%20del%20usuario/Source.asm)
 * **5.** [Condicionales](./05%20-%20Condicionales/Source.asm)
 * **5.1** [Repetir hasta que el usuario ingrese cero](./5.1-%20Repetir%20hasta%20que%20el%20usuario%20ingrese%20cero/Source.asm)
