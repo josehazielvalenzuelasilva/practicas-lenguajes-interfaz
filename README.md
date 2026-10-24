@@ -18,7 +18,7 @@
 * **5.** [Condicionales](https://github.com/josehazielvalenzuelasilva/practicas-lenguajes-interfaz/blob/main/05%20-%20Condicionales/Source05.asm)
 * **5.1** [Repetir hasta que el usuario ingrese cero](https://github.com/josehazielvalenzuelasilva/practicas-lenguajes-interfaz/blob/main/5.1%20-%20Repetir%20hasta%20que%20el%20usuario%20ingrese%20cero/Source5-1.asm)
 * **7.** [Validación de formato](https://github.com/josehazielvalenzuelasilva/practicas-lenguajes-interfaz/blob/main/07%20-%20Validacion%20de%20formato/Source07.asm)
-* **9.** [PUSH y POP](./09-%20PUSH%20y%20POP/Source.asm)
+* **9.** [PUSH y POP](https://github.com/josehazielvalenzuelasilva/practicas-lenguajes-interfaz/blob/main/09%20-%20PUSH%20y%20POP/Source09.asm)
 * **11.** [Operaciones lógicas](./11-%20Operaciones%20logicas/Source.asm)
 * **12.** [Desplazamiento y rotación](./12-%20Desplazamiento%20y%20rotacion/Source.asm)
 * **15.** [Manipulación de archivos](./15-%20Manipulacion%20de%20archivos/Source.asm)
